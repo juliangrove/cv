@@ -22,7 +22,7 @@
 
 * Employment
   #+begin_export latex
-\begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
+\begin{tabular}{@{}b{0.15\textwidth}@{}p{0.85\textwidth}}
 \oldstylenums{2022\textendash } & \textbf{The University of Rochester}\\
 & Post-doctoral researcher \\
 & FACTS.lab (directed by Aaron Steven White) \\
@@ -36,7 +36,7 @@
 
 * Education
   #+begin_export latex
-\begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
+\begin{tabular}{@{}b{0.15\textwidth}@{}p{0.85\textwidth}}
 \oldstylenums{2012\textendash 2019} & \textbf{The University of Chicago}\\
 & PhD in Linguistics \\
 & \emph{Thesis:} \href{https://semanticsarchive.net/Archive/TRmOTkzM/}{Scope-taking and presupposition satisfaction} \\
@@ -49,7 +49,7 @@
 * Publications
 ** Published papers
    #+begin_export latex
-\begin{tabular}{@{}b{0.15\textwidth}@{}p{0.85\textwidth}}
+\begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
 \oldstylenums{2023} & \textbf{Julian Grove} \& Jean-Philippe Bernardy. Probabilistic compositional semantic, purely. \textit{New Frontiers in Artificial Intelligence}. \textit{JSAI-isAI 2021}. \textsc{doi}:\href{http://doi.org/10.1007/978-3-031-36190-6_17}{10.1007/978-3-031-36190-6\_17}. \\
 \oldstylenums{2023} & \textbf{Julian Grove} \& Jean-Philippe Bernardy. Algebraic effects for extensible dynamic semantics. In \textit{Journal of Logic, Language and Information}. 32:219--245. \textsc{doi}:\href{http://doi.org/10.1007/s10849-022-09378-7}{10.1007/s10849-022-09378-7}. \\
 \oldstylenums{2022} & \textbf{Julian Grove}. An alternative semantics for presupposition. Proceedings of the Amsterdam Colloquium 2022. Available on \href{https://ling.auf.net/lingbuzz/006976}{LingBuzz}. \\
@@ -58,7 +58,7 @@
 \oldstylenums{2021} & \textbf{Julian Grove}, Jean-Philippe Bernardy, \& Stergios Chatzikyriakidis. From compositional semantics to Bayesian pragmatics via logical inference. Proceed ings of Natural Logic Meets Machine Learning II, Workshop @IWCS. Published by the Association for Computational Linguistics. Available in the \href{https://aclanthology.org/2021.naloma-1.8}{ACL Anthology}. \\
 \oldstylenums{2019} & Ming Xiang, \textbf{Julian Grove}, \& Jason Merchant. Structural priming in production through ‘silence’: An investigation of verb phrase ellipsis and null complement anaphora. In \textit{Glossa: a journal of general linguistics} 4(1): 67. \textsc{doi}:\href{http://doi.org/10.5334/gjgl.726}{10.5334/gjgl.726}.
 \end{tabular}
-\begin{tabular}{@{}b{0.15\textwidth}@{}p{0.85\textwidth}}
+\begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
 \oldstylenums{2017} & Emily Hanink \& \textbf{Julian Grove}. German relative clauses and the severed-index hypothesis. In Proceedings of the 34th annual meeting of the West Coast Conference on Formal Linguistics, ed. Aaron Kaplan, et al., 241-248, Somerville, MA: Cascadilla Proceedings Project. \\
 \oldstylenums{2016} & Ming Xiang, \textbf{Julian Grove}, \& Anastasia Giannakidou. Semantic and pragmatic processes in the comprehension of negation: an event related potential study of negative polarity sensitivity. In \textit{Journal of Neurolinguistics} 38:71--88. \textsc{doi}:\href{https://doi.org/10.1016/j.jneuroling.2015.11.001}{10.1016/j.jneuroling.2015.11.001}. \\
 \oldstylenums{2016} & \textbf{Julian Grove} \& Emily Hanink. Article selection and anaphora in the German relative clause. Proceedings of the 26th annual meeting of Semantics and Linguistic Theory, ed. Mary Maroney, Carol-Rose Little, Jacob Collard, and Dan Burgdorf, 417--432. Ithaca, NY: Cornell. \\
@@ -72,7 +72,7 @@
 
 ** Papers in progress
    #+begin_export latex
-\begin{tabular}{@{}b{0.15\textwidth}@{}p{0.85\textwidth}}
+\begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
 Submitted & \textbf{Julian Grove} \& Aaron Steven White. Factivity, presupposition projection, and the role of discrete knowledge in gradient inference judgments. Draft available on \href{https://ling.auf.net/lingbuzz/007450}{LingBuzz}. \\
 Submitted & Jean-Philippe Bernardy, \textbf{Julian Grove}, and Chris Howes. The informative speech act.
 \end{tabular}
@@ -82,6 +82,41 @@ Submitted & Jean-Philippe Bernardy, \textbf{Julian Grove}, and Chris Howes. The 
    #+begin_export latex
 \begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
 \oldstylenums{2016} & Ross Burkholder, Carlos Cisneros, Emily R. Coppess, \textbf{Julian Grove}, Emily A. Hanink, Hilary McMahan, Cherry Meyer, Natalia Pavlou, Özge Sarıgül, Adam Roth Singerman, \& Anqi Zhang (eds.). Proceedings of the Fiftieth Annual Meeting of the Chicago Linguistic Society. CLS.
-   \end{tabular}
+\end{tabular}
    #+end_export
    
+* Presentations
+** Invited talks
+   #+begin_export latex
+\begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
+\oldstylenums{2023} & \textbf{Julian Grove}. Factivity, presupposition projection, and the role of discrete knowledge in gradient inference judgments. Talk given at the Linguistic Meaning Lab, Cornell University. \\
+\oldstylenums{2022} & \textbf{Julian Grove}. Probabilities for the stubborn semanticist. Plenary talk at the Manchester Forum in Linguistics, Department of Linguistics and English Language, the University of Manchester. \\
+\oldstylenums{2021} & \textbf{Julian Grove}. Presupposition projection as a scope phenomenon. Talk given at the LINGUAE research group, Institut Jean-Nicod. \\
+\oldstylenums{2019} & \textbf{Julian Grove}. Satisfaction without provisos. Talk given at the SURGE reading group, Department of Linguistics, Rutgers University.
+\end{tabular}
+   #+end_export
+
+** Refereed conference presentations
+   #+begin_export latex
+\begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
+\oldstylenums{2022} & Jean-Philippe Bernardy, \textbf{Julian Grove}, \& Christine Howes. Rational Speech Act models are utterance-independent updates of world priors. Paper presented at the 26th Workshop on the Semantics and Pragmatics of Dialogue. Slides available at \href{https://juliangrove.github.io/slides/semdial2022_talk.pdf}{here}.
+\end{tabular}
+\begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
+\oldstylenums{2021} & \textbf{Julian Grove} \& Jean-Philippe Bernardy. Probabilistic compositional semantics, purely. Paper presented at Logic and Engineering of Natural Language Semantics 18. \\
+\oldstylenums{2021} & \textbf{Julian Grove}, Jean-Philippe Bernardy, \& Stergios Chatzikyriakidis. From compositional semantics to Bayesian pragmatics via logical inference. Paper presented at Natural Logic Meets Machine Learning II, Workshop @IWCS 2021. \\
+\oldstylenums{2016} & Emily Hanink \& \textbf{Julian Grove}. German relative clauses and the severed-index hypothesis. Talk presented at the 52nd annual meeting of the Chicago Linguistic Society. April, Chicago. \\
+\oldstylenums{2016} & Julian Grove, Emily Hanink, \& Ming Xiang. Comprehension priming evidence for elliptical structures. Poster presented at the 29th annual meeting of the CUNY Conference on Human Sentence Processing. March, Gainesville. \\
+\oldstylenums{2015} & \textbf{Julian Grove}. Semantic layers in DP. Poster presented at the 33rd West Coast Conference on Formal Linguistics. March, Vancouver. \\
+\oldstylenums{2014} & \textbf{Julian Grove}. The ubiquitous pseudopartitive head: evidence from Spanish and English. Talk presented at GWAMP 14, University of Wisconsin-Milwaukee. October, Milkwaukee. \\
+\oldstylenums{2014} & \textbf{Julian Grove}, Emily Hanink, \& Ming Xiang. Comprehension Priming Evidence for Elliptical Structures. Poster presented at the 20th annual meeting of AMLaP. September, Edinburgh. \\
+\oldstylenums{2014} & \textbf{Julian Grove}. The semantics of much-support. Talk presented at the 88th annual meeting of the Linguistic Society of America. January, Minneapolis. \\
+\oldstylenums{2014} & Ming Xiang, \textbf{Julian Grove}, Jason Merchant, Genna Vegh, Stefan Bartel, \& Katina Vradelis. Ellipsis sites induce syntactic priming effects. Poster presented at the 88th annual meeting of the Linguistic Society of America. January, Minneapolis. \\
+\oldstylenums{2013} & Ming Xiang, \textbf{Julian Grove}, \& Anastasia Giannakidou. Semantic and pragmatic licensing of NPIs. Talk presented at the 5th Experimental Pragmatics Conference. June, Utrecht. \\
+\oldstylenums{2013} & Ming Xiang, \textbf{Julian Grove}, Jason Merchant, Genna Vegh, Stefan Bartell, \& Katina Vradelis. Silent structures in ellipsis: evidence from syntactic priming. Poster presented at the 26th annual meeting of the CUNY Conference on Human Sentence Processing. March, Columbia. \\
+\oldstylenums{2012} & Ming Xiang, \textbf{Julian Grove}, \& Anastasia Giannakidou. Processing lexical semantic features on functional words---a case of negative polarity items. Poster presented at the 4th Neurobiology of Language Conference. October, San Sebastian. \\
+\oldstylenums{2012} & Ming Xiang, Anastasia Giannakidou, \& \textbf{Julian Grove}. Two stages of NPI licensing: an ERP study. Poster presented at the 25th annual meeting of the CUNY Conference on Human Sentence Processing. March, NYC. \\
+\oldstylenums{2012} & Ming Xiang, Anastasia Giannakidou, \& \textbf{Julian Grove}. Strength of negation and licensing negative polarity items: an ERP study. Poster presented at the Cognitive Neuroscience Society annual meeting. March, Chicago. \\
+\oldstylenums{2012} & Ming Xiang, Jason Merchant, \& \textbf{Julian Grove}. Silent Structures in Ellipsis: Priming and Anti-priming Effects. Poster presented at the 86th annual meeting of the Linguistics Society of America, Portland. \\
+\oldstylenums{2011} & Ming Xiang, \textbf{Julian Grove}, \& Anastasia Giannakidou. 2011. Interference ``licensing'' of NPIs: Pragmatic reasoning and individual differences. Poster presented at the 24th annual meeting of the CUNY Conference on Human Sentence Processing. March, Stanford.
+\end{tabular}
+   #+end_export
