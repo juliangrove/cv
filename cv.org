@@ -77,3 +77,11 @@ Submitted & \textbf{Julian Grove} \& Aaron Steven White. Factivity, presuppositi
 Submitted & Jean-Philippe Bernardy, \textbf{Julian Grove}, and Chris Howes. The informative speech act.
 \end{tabular}
    #+end_export
+
+** Edited volumes
+   #+begin_export latex
+\begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
+\oldstylenums{2016} & Ross Burkholder, Carlos Cisneros, Emily R. Coppess, \textbf{Julian Grove}, Emily A. Hanink, Hilary McMahan, Cherry Meyer, Natalia Pavlou, Özge Sarıgül, Adam Roth Singerman, \& Anqi Zhang (eds.). Proceedings of the Fiftieth Annual Meeting of the Chicago Linguistic Society. CLS.
+   \end{tabular}
+   #+end_export
+   
