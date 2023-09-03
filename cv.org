@@ -1,0 +1,4 @@
+#+latex_class: cv
+#+options: title:nil toc:nil
+
+* Contact Information
