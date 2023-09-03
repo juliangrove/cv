@@ -37,9 +37,9 @@ let
        \\titleformat{\\section}{\\Large\\scshape\\raggedright\\sffamily}{}{0em}{}[\\titlerule]
        \\titlespacing{\\section}{0pt}{3pt}{3pt}
        %\\titlespacing{\\section}{0pt}{2pt}{2pt}
-       \\titleformat*{\\subsection}{\\bfseries\\raggedright\\sffamily}
+       \\titleformat{\\subsection}{\\bfseries\\raggedright\\sffamily}{}{0em}{}[]
        %Tweak a bit the top margin
-       %\addtolength{\voffset}{-1.3cm}
+       %\\addtolength{\voffset}{-1.3cm}
 
        %Italian hyphenation for the word: \'\'corporations\'\'
        \\hyphenation{im-pre-se}
@@ -64,7 +64,7 @@ let
        ]
        {Cochineal-Roman.otf}
        \\setsansfont[
-       % SmallCapsFont = LinBiolinum_aS.ttf,
+       %SmallCapsFont = LinBiolinum_aS.ttf,
        BoldFont = LinBiolinum_RB.otf,
        ]
        {LinBiolinum_R.otf}
@@ -126,6 +126,7 @@ stdenv.mkDerivation {
         doublestroke
         inconsolata
         lastpage
+        libertine
         makecell
         mathtools
         multirow
