@@ -10,181 +10,187 @@
 
 * Contact Information
   #+begin_export latex
-\begin{tabular}{@{} m{0.085\textwidth} m{0.4\textwidth} m{0.085\textwidth} m{0.4\textwidth}}
-    \textsc{Address:}&\oldstylenums{507} Lattimore Hall & \textsc{Email} & \href{mailto:julian.grove@gmail.com}{julian.grove@gmail.com} \\
-    & Department of Linguistics & \textsc{Web} & \href{http://juliangrove.github.io}{juliangrove.github.io} \\
-    & University of Rochester & \textsc{GitHub} & \href{http://github.com/juliangrove}{juliangrove} \\
-    & 500 Joseph C. Wilson Blvd. \\
-    & Rochester, NY \oldstylenums{14627} \\
-    & United States
-\end{tabular}
+  \begin{tabular}{@{} m{0.085\textwidth} m{0.4\textwidth} m{0.085\textwidth} m{0.4\textwidth}}
+  \textsc{Address:}&\oldstylenums{507} Lattimore Hall & \textsc{Email} & \href{mailto:julian.grove@gmail.com}{julian.grove@gmail.com} \\
+  & Department of Linguistics & \textsc{Web} & \href{http://juliangrove.github.io}{juliangrove.github.io} \\
+  & University of Rochester & \textsc{GitHub} & \href{http://github.com/juliangrove}{juliangrove} \\
+  & 500 Joseph C. Wilson Blvd. \\
+  & Rochester, NY \oldstylenums{14627} \\
+  & United States
+  \end{tabular}
   #+end_export
 
-* Employment
+* Professional Experience
   #+begin_export latex
-\begin{tabular}{@{}b{0.15\textwidth}@{}p{0.85\textwidth}}
-\oldstylenums{2022\textendash } & \textbf{The University of Rochester}\\
-& Post-doctoral researcher \\
-& FACTS.lab (directed by Aaron Steven White) \\
-& Department of Linguistics \\
-\oldstylenums{2020\textendash 2022}& \textbf{The University of Gothenburg} \\
-& Post-doctoral researcher \\
-& Centre for Linguistic Theory and Studies in Probability \\
-& Department of Philosophy, Linguistics and Theory of Science \\
-\end{tabular}
+  \begin{tabular}{@{}b{0.15\textwidth}@{}p{0.85\textwidth}}
+  \oldstylenums{2022\textendash } & \textbf{The University of Rochester}\\
+  & Post-doctoral researcher \\
+  & FACTS.lab (directed by Aaron Steven White) \\
+  & Department of Linguistics \\
+  \oldstylenums{2020\textendash 2022}& \textbf{The University of Gothenburg} \\
+  & Post-doctoral researcher \\
+  & Centre for Linguistic Theory and Studies in Probability \\
+  & Department of Philosophy, Linguistics and Theory of Science \\
+  \end{tabular}
   #+end_export
 
 * Education
   #+begin_export latex
-\begin{tabular}{@{}b{0.15\textwidth}@{}p{0.85\textwidth}}
-\oldstylenums{2012\textendash 2019} & \textbf{The University of Chicago}\\
-& PhD in Linguistics \\
-& \emph{Thesis:} \href{https://semanticsarchive.net/Archive/TRmOTkzM/}{Scope-taking and presupposition satisfaction} \\
-& \emph{Committee:} Chris Kennedy (chair), Itamar Francez, Greg Kobele, and Malte Willer \\
-\oldstylenums{2006\textendash 2010} & \textbf{Johns Hopkins University} \\
-& BA (with general and departmental honors) in Cognitive Science
-\end{tabular}
+  \begin{tabular}{@{}b{0.15\textwidth}@{}p{0.85\textwidth}}
+  \oldstylenums{2019} & \textbf{The University of Chicago}\\
+  & PhD in Linguistics \\
+  & \emph{Thesis:} \href{https://semanticsarchive.net/Archive/TRmOTkzM/}{Scope-taking and presupposition satisfaction} \\
+  & \emph{Committee:} Chris Kennedy (chair), Itamar Francez, Greg Kobele, and Malte Willer \\
+  \oldstylenums{2010} & \textbf{Johns Hopkins University} \\
+  & BA in Cognitive Science
+  \end{tabular}
   #+end_export
 
 * Publications
 ** Published papers
    #+begin_export latex
-\begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
-\oldstylenums{2023} & \textbf{Julian Grove} \& Jean-Philippe Bernardy. Probabilistic compositional semantic, purely. \textit{New Frontiers in Artificial Intelligence}. \textit{JSAI-isAI 2021}. \textsc{doi}:\href{http://doi.org/10.1007/978-3-031-36190-6_17}{10.1007/978-3-031-36190-6\_17}. \\
-\oldstylenums{2023} & \textbf{Julian Grove} \& Jean-Philippe Bernardy. Algebraic effects for extensible dynamic semantics. In \textit{Journal of Logic, Language and Information}. 32:219--245. \textsc{doi}:\href{http://doi.org/10.1007/s10849-022-09378-7}{10.1007/s10849-022-09378-7}. \\
-\oldstylenums{2022} & \textbf{Julian Grove}. An alternative semantics for presupposition. Proceedings of the Amsterdam Colloquium 2022. Available on \href{https://ling.auf.net/lingbuzz/006976}{LingBuzz}. \\
-\oldstylenums{2022} & \textbf{Julian Grove}. Presupposition projection as a scope phenomenon. In \textit{Semantics and Pragmatics} 15(15). \textsc{doi}:\href{http://doi.org/10.3765/sp.15.15}{10.3765/sp.15.15}. \\
-\oldstylenums{2022} & Jean-Philippe Bernardy, \textbf{Julian Grove}, \& Christine Howes. Rational Speech Act models are utterance-independent updates of world priors. Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue. Available in the \href{http://semdial.org/anthology/papers/Z/Z22/Z22-3013}{ACL Anthology}. \\
-\oldstylenums{2021} & \textbf{Julian Grove}, Jean-Philippe Bernardy, \& Stergios Chatzikyriakidis. From compositional semantics to Bayesian pragmatics via logical inference. Proceed ings of Natural Logic Meets Machine Learning II, Workshop @IWCS. Published by the Association for Computational Linguistics. Available in the \href{https://aclanthology.org/2021.naloma-1.8}{ACL Anthology}. \\
-\oldstylenums{2019} & Ming Xiang, \textbf{Julian Grove}, \& Jason Merchant. Structural priming in production through ‘silence’: An investigation of verb phrase ellipsis and null complement anaphora. In \textit{Glossa: a journal of general linguistics} 4(1): 67. \textsc{doi}:\href{http://doi.org/10.5334/gjgl.726}{10.5334/gjgl.726}.
-\end{tabular}
-\begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
-\oldstylenums{2017} & Emily Hanink \& \textbf{Julian Grove}. German relative clauses and the severed-index hypothesis. Proceedings of the 34th annual meeting of the West Coast Conference on Formal Linguistics, ed. Aaron Kaplan, et al., 241-248, Somerville, MA: Cascadilla Proceedings Project. \\
-\oldstylenums{2016} & Ming Xiang, \textbf{Julian Grove}, \& Anastasia Giannakidou. Semantic and pragmatic processes in the comprehension of negation: an event related potential study of negative polarity sensitivity. In \textit{Journal of Neurolinguistics} 38:71--88. \textsc{doi}:\href{https://doi.org/10.1016/j.jneuroling.2015.11.001}{10.1016/j.jneuroling.2015.11.001}. \\
-\oldstylenums{2016} & \textbf{Julian Grove} \& Emily Hanink. Article selection and anaphora in the German relative clause. Proceedings of the 26th annual meeting of Semantics and Linguistic Theory, ed. Mary Maroney, Carol-Rose Little, Jacob Collard, and Dan Burgdorf, 417--432. Ithaca, NY: Cornell. \\
-\oldstylenums{2015} & \textbf{Julian Grove}. Singular count pseudo-partitives. Proceedings of Sinn und Bedeutung 19, 248--265. \\
-\oldstylenums{2014} & \textbf{Julian Grove}. The lexical semantics of much: conversion from intervals to degrees. Proceedings of the 44th Annual Meeting of the North Eastern Linguistic Society. \\
-\oldstylenums{2013} & Ming Xiang, \textbf{Julian Grove}, \& Anastasia Giannakidou. Dependency-dependent interference: NPI interference, agreement attraction, and global pragmatic inferences. In \textit{Frontiers in Psychology} 4(708). \textsc{doi}:\href{http://doi.org/10.3389/fpsyg.2013.00708}{10.3389/fpsyg.2013.00708}. \\
-\oldstylenums{2011} & Carissa Abrego-Collier, \textbf{Julian Grove}, Morgan Sonderegger, \& Alan Yu. Effects of speaker evaluation on phonetic convergence. Proceedings of the 17th International Congress of Phonetic Sciences. \\
-\oldstylenums{2011} & Alan Yu, \textbf{Julian Grove}, Martina Martinović, \& Morgan Sonderegger. Effects of working working memory capacity and “autistic traits” on phonotactic effects in speech perception. Proceedings of the 17th International Congress of Phonetic Sciences
-\end{tabular}
+   \begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
+   \oldstylenums{2024} & \textbf{Julian Grove} \& Aaron Steven White. Modeling the prompt in inference judgment tasks. To appear in the proceedings of the third meeting of Experiments in Linguistics Meaning (ELM 3). Available on \href{https://ling.auf.net/lingbuzz/008196}{LingBuzz}. \\
+   \oldstylenums{2023} & \textbf{Julian Grove} \& Jean-Philippe Bernardy. Probabilistic compositional semantic, purely. \textit{New Frontiers in Artificial Intelligence}. \textit{JSAI-isAI 2021}. \textsc{doi}:\href{http://doi.org/10.1007/978-3-031-36190-6_17}{10.1007/978-3-031-36190-6\_17}. \\
+   \oldstylenums{2023} & \textbf{Julian Grove} \& Jean-Philippe Bernardy. Algebraic effects for extensible dynamic semantics. In \textit{Journal of Logic, Language and Information}. 32:219--245. \textsc{doi}:\href{http://doi.org/10.1007/s10849-022-09378-7}{10.1007/s10849-022-09378-7}. \\
+   \oldstylenums{2022} & \textbf{Julian Grove}. An alternative semantics for presupposition. Proceedings of the Amsterdam Colloquium 2022. Available on \href{https://ling.auf.net/lingbuzz/006976}{LingBuzz}. \\
+   \oldstylenums{2022} & \textbf{Julian Grove}. Presupposition projection as a scope phenomenon. In \textit{Semantics and Pragmatics} 15(15). \textsc{doi}:\href{http://doi.org/10.3765/sp.15.15}{10.3765/sp.15.15}. \\
+   \oldstylenums{2022} & Jean-Philippe Bernardy, \textbf{Julian Grove}, \& Christine Howes. Rational Speech Act models are utterance-independent updates of world priors. Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue. Available in the \href{http://semdial.org/anthology/papers/Z/Z22/Z22-3013}{ACL Anthology}. \\
+   \oldstylenums{2021} & \textbf{Julian Grove}, Jean-Philippe Bernardy, \& Stergios Chatzikyriakidis. From compositional semantics to Bayesian pragmatics via logical inference. Proceed ings of Natural Logic Meets Machine Learning II, Workshop @IWCS. Published by the Association for Computational Linguistics. Available in the \href{https://aclanthology.org/2021.naloma-1.8}{ACL Anthology}. \\
+   \oldstylenums{2019} & Ming Xiang, \textbf{Julian Grove}, \& Jason Merchant. Structural priming in production through ‘silence’: An investigation of verb phrase ellipsis and null complement anaphora. In \textit{Glossa: a journal of general linguistics} 4(1): 67. \textsc{doi}:\href{http://doi.org/10.5334/gjgl.726}{10.5334/gjgl.726}.
+   \end{tabular}
+   \begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
+   \oldstylenums{2017} & Emily Hanink \& \textbf{Julian Grove}. German relative clauses and the severed-index hypothesis. Proceedings of the 34th annual meeting of the West Coast Conference on Formal Linguistics, ed. Aaron Kaplan, et al., 241-248, Somerville, MA: Cascadilla Proceedings Project. \\
+   \oldstylenums{2016} & Ming Xiang, \textbf{Julian Grove}, \& Anastasia Giannakidou. Semantic and pragmatic processes in the comprehension of negation: an event related potential study of negative polarity sensitivity. In \textit{Journal of Neurolinguistics} 38:71--88. \textsc{doi}:\href{https://doi.org/10.1016/j.jneuroling.2015.11.001}{10.1016/j.jneuroling.2015.11.001}. \\
+   \oldstylenums{2016} & \textbf{Julian Grove} \& Emily Hanink. Article selection and anaphora in the German relative clause. Proceedings of the 26th annual meeting of Semantics and Linguistic Theory, ed. Mary Maroney, Carol-Rose Little, Jacob Collard, and Dan Burgdorf, 417--432. Ithaca, NY: Cornell. \\
+   \oldstylenums{2015} & \textbf{Julian Grove}. Singular count pseudo-partitives. Proceedings of Sinn und Bedeutung 19, 248--265. \\
+   \oldstylenums{2014} & \textbf{Julian Grove}. The lexical semantics of much: conversion from intervals to degrees. Proceedings of the 44th Annual Meeting of the North Eastern Linguistic Society. \\
+   \oldstylenums{2013} & Ming Xiang, \textbf{Julian Grove}, \& Anastasia Giannakidou. Dependency-dependent interference: NPI interference, agreement attraction, and global pragmatic inferences. In \textit{Frontiers in Psychology} 4(708). \textsc{doi}:\href{http://doi.org/10.3389/fpsyg.2013.00708}{10.3389/fpsyg.2013.00708}. \\
+   \oldstylenums{2011} & Carissa Abrego-Collier, \textbf{Julian Grove}, Morgan Sonderegger, \& Alan Yu. Effects of speaker evaluation on phonetic convergence. Proceedings of the 17th International Congress of Phonetic Sciences. \\
+   \oldstylenums{2011} & Alan Yu, \textbf{Julian Grove}, Martina Martinović, \& Morgan Sonderegger. Effects of working working memory capacity and “autistic traits” on phonotactic effects in speech perception. Proceedings of the 17th International Congress of Phonetic Sciences
+   \end{tabular}
    #+end_export
 
 ** Papers in progress
    #+begin_export latex
-\begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
-Submitted & \textbf{Julian Grove} \& Aaron Steven White. Factivity, presupposition projection, and the role of discrete knowledge in gradient inference judgments. Draft available on \href{https://ling.auf.net/lingbuzz/007450}{LingBuzz}. \\
-Submitted & Jean-Philippe Bernardy, \textbf{Julian Grove}, and Chris Howes. The informative speech act.
-\end{tabular}
+   \begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
+   Submitted & \textbf{Julian Grove} \& Aaron Steven White. Factivity, presupposition projection, and the role of discrete knowledge in gradient inference judgments. Available on \href{https://ling.auf.net/lingbuzz/007450}{LingBuzz}. \\
+   Submitted & Jean-Philippe Bernardy, \textbf{Julian Grove}, and Chris Howes. The informative speech act.
+   \end{tabular}
    #+end_export
 
 ** Edited volumes
    #+begin_export latex
-\begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
-\oldstylenums{2016} & Ross Burkholder, Carlos Cisneros, Emily R. Coppess, \textbf{Julian Grove}, Emily A. Hanink, Hilary McMahan, Cherry Meyer, Natalia Pavlou, Özge Sarıgül, Adam Roth Singerman, \& Anqi Zhang (eds.). Proceedings of the Fiftieth Annual Meeting of the Chicago Linguistic Society. CLS.
-\end{tabular}
+   \begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
+   \oldstylenums{2016} & Ross Burkholder, Carlos Cisneros, Emily R. Coppess, \textbf{Julian Grove}, Emily A. Hanink, Hilary McMahan, Cherry Meyer, Natalia Pavlou, Özge Sarıgül, Adam Roth Singerman, \& Anqi Zhang (eds.). Proceedings of the Fiftieth Annual Meeting of the Chicago Linguistic Society. CLS.
+   \end{tabular}
    #+end_export
    
 * Presentations
 ** Invited talks
    #+begin_export latex
-\begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
-\oldstylenums{2023} & \textbf{Julian Grove}. Factivity, presupposition projection, and the role of discrete knowledge in gradient inference judgments. Talk given at the Linguistic Meaning Lab, Cornell University. \\
-\oldstylenums{2022} & \textbf{Julian Grove}. Probabilities for the stubborn semanticist. Plenary talk at the Manchester Forum in Linguistics, Department of Linguistics and English Language, the University of Manchester. \\
-\oldstylenums{2021} & \textbf{Julian Grove}. Presupposition projection as a scope phenomenon. Talk given at the LINGUAE research group, Institut Jean-Nicod. \\
-\oldstylenums{2019} & \textbf{Julian Grove}. Satisfaction without provisos. Talk given at the SURGE reading group, Department of Linguistics, Rutgers University.
-\end{tabular}
+   \begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
+   \oldstylenums{2023} & \textbf{Julian Grove}. Factivity, presupposition projection, and the role of discrete knowledge in gradient inference judgments. Talk given at the Linguistic Meaning Lab, Cornell University. \\
+   \oldstylenums{2022} & \textbf{Julian Grove}. Probabilities for the stubborn semanticist. Plenary talk at the Manchester Forum in Linguistics, Department of Linguistics and English Language, the University of Manchester. \\
+   \oldstylenums{2021} & \textbf{Julian Grove}. Presupposition projection as a scope phenomenon. Talk given at the LINGUAE research group, Institut Jean-Nicod. \\
+   \oldstylenums{2019} & \textbf{Julian Grove}. Satisfaction without provisos. Talk given at the SURGE reading group, Department of Linguistics, Rutgers University.
+   \end{tabular}
    #+end_export
 
 ** Refereed conference presentations
    #+begin_export latex
-\begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
-\oldstylenums{2022} & Jean-Philippe Bernardy, \textbf{Julian Grove}, \& Christine Howes. Rational Speech Act models are utterance-independent updates of world priors. Paper presented at the 26th Workshop on the Semantics and Pragmatics of Dialogue. Slides available at \href{https://juliangrove.github.io/slides/semdial2022_talk.pdf}{here}.
-\end{tabular}
-\begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
-\oldstylenums{2021} & \textbf{Julian Grove} \& Jean-Philippe Bernardy. Probabilistic compositional semantics, purely. Paper presented at Logic and Engineering of Natural Language Semantics 18. \\
-\oldstylenums{2021} & \textbf{Julian Grove}, Jean-Philippe Bernardy, \& Stergios Chatzikyriakidis. From compositional semantics to Bayesian pragmatics via logical inference. Paper presented at Natural Logic Meets Machine Learning II, Workshop @IWCS 2021. \\
-\oldstylenums{2016} & Emily Hanink \& \textbf{Julian Grove}. German relative clauses and the severed-index hypothesis. Talk presented at the 52nd annual meeting of the Chicago Linguistic Society. April, Chicago. \\
-\oldstylenums{2016} & Julian Grove, Emily Hanink, \& Ming Xiang. Comprehension priming evidence for elliptical structures. Poster presented at the 29th annual meeting of the CUNY Conference on Human Sentence Processing. March, Gainesville. \\
-\oldstylenums{2015} & \textbf{Julian Grove}. Semantic layers in DP. Poster presented at the 33rd West Coast Conference on Formal Linguistics. March, Vancouver. \\
-\oldstylenums{2014} & \textbf{Julian Grove}. The ubiquitous pseudopartitive head: evidence from Spanish and English. Talk presented at GWAMP 14, University of Wisconsin-Milwaukee. October, Milkwaukee. \\
-\oldstylenums{2014} & \textbf{Julian Grove}, Emily Hanink, \& Ming Xiang. Comprehension Priming Evidence for Elliptical Structures. Poster presented at the 20th annual meeting of AMLaP. September, Edinburgh. \\
-\oldstylenums{2014} & \textbf{Julian Grove}. The semantics of much-support. Talk presented at the 88th annual meeting of the Linguistic Society of America. January, Minneapolis. \\
-\oldstylenums{2014} & Ming Xiang, \textbf{Julian Grove}, Jason Merchant, Genna Vegh, Stefan Bartel, \& Katina Vradelis. Ellipsis sites induce syntactic priming effects. Poster presented at the 88th annual meeting of the Linguistic Society of America. January, Minneapolis. \\
-\oldstylenums{2013} & Ming Xiang, \textbf{Julian Grove}, \& Anastasia Giannakidou. Semantic and pragmatic licensing of NPIs. Talk presented at the 5th Experimental Pragmatics Conference. June, Utrecht. \\
-\oldstylenums{2013} & Ming Xiang, \textbf{Julian Grove}, Jason Merchant, Genna Vegh, Stefan Bartell, \& Katina Vradelis. Silent structures in ellipsis: evidence from syntactic priming. Poster presented at the 26th annual meeting of the CUNY Conference on Human Sentence Processing. March, Columbia. \\
-\oldstylenums{2012} & Ming Xiang, \textbf{Julian Grove}, \& Anastasia Giannakidou. Processing lexical semantic features on functional words---a case of negative polarity items. Poster presented at the 4th Neurobiology of Language Conference. October, San Sebastian. \\
-\oldstylenums{2012} & Ming Xiang, Anastasia Giannakidou, \& \textbf{Julian Grove}. Two stages of NPI licensing: an ERP study. Poster presented at the 25th annual meeting of the CUNY Conference on Human Sentence Processing. March, NYC. \\
-\oldstylenums{2012} & Ming Xiang, Anastasia Giannakidou, \& \textbf{Julian Grove}. Strength of negation and licensing negative polarity items: an ERP study. Poster presented at the Cognitive Neuroscience Society annual meeting. March, Chicago. \\
-\oldstylenums{2012} & Ming Xiang, Jason Merchant, \& \textbf{Julian Grove}. Silent Structures in Ellipsis: Priming and Anti-priming Effects. Poster presented at the 86th annual meeting of the Linguistics Society of America, Portland. \\
-\oldstylenums{2011} & Ming Xiang, \textbf{Julian Grove}, \& Anastasia Giannakidou. 2011. Interference ``licensing'' of NPIs: Pragmatic reasoning and individual differences. Poster presented at the 24th annual meeting of the CUNY Conference on Human Sentence Processing. March, Stanford.
-\end{tabular}
+   \begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
+   \oldstylenums{2024} & \textbf{Julian Grove}. Modeling the prompt in inference judgment tasks. Paper presented at the third meeting of Experiments in Linguistic Meaning (ELM 3). \\
+   \oldstylenums{2022} & \textbf{Julian Grove}. An alternative semantics for presupposition. Poster presented at the Amsterdam Colloquium 2022. \\
+   \oldstylenums{2022} & Jean-Philippe Bernardy, \textbf{Julian Grove}, \& Christine Howes. Rational Speech Act models are utterance-independent updates of world priors. Paper presented at the 26th Workshop on the Semantics and Pragmatics of Dialogue. Slides available at \href{https://juliangrove.github.io/slides/semdial2022_talk.pdf}{here}.
+   \end{tabular}
+   \begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
+   \oldstylenums{2021} & \textbf{Julian Grove} \& Jean-Philippe Bernardy. Probabilistic compositional semantics, purely. Paper presented at Logic and Engineering of Natural Language Semantics 18. \\
+   \oldstylenums{2021} & \textbf{Julian Grove}, Jean-Philippe Bernardy, \& Stergios Chatzikyriakidis. From compositional semantics to Bayesian pragmatics via logical inference. Paper presented at Natural Logic Meets Machine Learning II, Workshop @IWCS 2021. \\
+   \oldstylenums{2016} & Emily Hanink \& \textbf{Julian Grove}. German relative clauses and the severed-index hypothesis. Talk presented at the 52nd annual meeting of the Chicago Linguistic Society. April, Chicago. \\
+   \oldstylenums{2016} & Julian Grove, Emily Hanink, \& Ming Xiang. Comprehension priming evidence for elliptical structures. Poster presented at the 29th annual meeting of the CUNY Conference on Human Sentence Processing. March, Gainesville. \\
+   \oldstylenums{2015} & \textbf{Julian Grove}. Semantic layers in DP. Poster presented at the 33rd West Coast Conference on Formal Linguistics. March, Vancouver. \\
+   \oldstylenums{2014} & \textbf{Julian Grove}. The ubiquitous pseudopartitive head: evidence from Spanish and English. Talk presented at GWAMP 14, University of Wisconsin-Milwaukee. October, Milkwaukee. \\
+   \oldstylenums{2014} & \textbf{Julian Grove}, Emily Hanink, \& Ming Xiang. Comprehension Priming Evidence for Elliptical Structures. Poster presented at the 20th annual meeting of AMLaP. September, Edinburgh. \\
+   \oldstylenums{2014} & \textbf{Julian Grove}. The semantics of much-support. Talk presented at the 88th annual meeting of the Linguistic Society of America. January, Minneapolis. \\
+   \oldstylenums{2014} & Ming Xiang, \textbf{Julian Grove}, Jason Merchant, Genna Vegh, Stefan Bartel, \& Katina Vradelis. Ellipsis sites induce syntactic priming effects. Poster presented at the 88th annual meeting of the Linguistic Society of America. January, Minneapolis. \\
+   \oldstylenums{2013} & Ming Xiang, \textbf{Julian Grove}, \& Anastasia Giannakidou. Semantic and pragmatic licensing of NPIs. Talk presented at the 5th Experimental Pragmatics Conference. June, Utrecht. \\
+   \oldstylenums{2013} & Ming Xiang, \textbf{Julian Grove}, Jason Merchant, Genna Vegh, Stefan Bartell, \& Katina Vradelis. Silent structures in ellipsis: evidence from syntactic priming. Poster presented at the 26th annual meeting of the CUNY Conference on Human Sentence Processing. March, Columbia. \\
+   \oldstylenums{2012} & Ming Xiang, \textbf{Julian Grove}, \& Anastasia Giannakidou. Processing lexical semantic features on functional words---a case of negative polarity items. Poster presented at the 4th Neurobiology of Language Conference. October, San Sebastian. \\
+   \oldstylenums{2012} & Ming Xiang, Anastasia Giannakidou, \& \textbf{Julian Grove}. Two stages of NPI licensing: an ERP study. Poster presented at the 25th annual meeting of the CUNY Conference on Human Sentence Processing. March, NYC. \\
+   \oldstylenums{2012} & Ming Xiang, Anastasia Giannakidou, \& \textbf{Julian Grove}. Strength of negation and licensing negative polarity items: an ERP study. Poster presented at the Cognitive Neuroscience Society annual meeting. March, Chicago. \\
+   \oldstylenums{2012} & Ming Xiang, Jason Merchant, \& \textbf{Julian Grove}. Silent Structures in Ellipsis: Priming and Anti-priming Effects. Poster presented at the 86th annual meeting of the Linguistics Society of America, Portland. \\
+   \oldstylenums{2011} & Ming Xiang, \textbf{Julian Grove}, \& Anastasia Giannakidou. 2011. Interference ``licensing'' of NPIs: Pragmatic reasoning and individual differences. Poster presented at the 24th annual meeting of the CUNY Conference on Human Sentence Processing. March, Stanford.
+   \end{tabular}
    #+end_export
-
+   
 * Teaching & other work
 ** The University of Rochester
    #+begin_export latex
-\begin{tabular}{@{}b{0.2\textwidth}@{}p{0.8\textwidth}}
-\oldstylenums{2023} & Instructor, Computational Semantics
-\end{tabular}
+   \begin{tabular}{@{}b{0.2\textwidth}@{}p{0.8\textwidth}}
+   \oldstylenums{2023} & Instructor, Computational Semantics
+   \end{tabular}
    #+end_export
 
 ** The University of Gothenburg
    #+begin_export latex
-\begin{tabular}{@{}b{0.2\textwidth}@{}p{0.8\textwidth}}
-\oldstylenums{2022} & Instructor, Type Theory and Effect Systems in Computational Semantics
-\end{tabular}
+   \begin{tabular}{@{}b{0.2\textwidth}@{}p{0.8\textwidth}}
+   \oldstylenums{2022} & Instructor, Type Theory and Effect Systems in Computational Semantics
+   \end{tabular}
    #+end_export
 
 ** The University of Chicago
    #+begin_export latex
-\begin{tabular}{@{}b{0.2\textwidth}@{}p{0.8\textwidth}}
-\oldstylenums{2019} & Instructor, Introduction to Linguistics \\
-\oldstylenums{2019} & Instructor, Introduction to Semantics and Pragmatics \\
-\oldstylenums{2018} & TA, Elementary Logic (Instructor: Malte Willer)
-\end{tabular}
-\begin{tabular}{@{}b{0.2\textwidth}@{}p{0.8\textwidth}}
-\oldstylenums{2018} & TA, Cognition (Instructors: Chris Kennedy and Jason Bridges) \\
-\oldstylenums{2017} & TA, Elementary Logic (Instructor: Thomas Pashby) \\
-\oldstylenums{2017} & TA, Code Making, Code Breaking (Instructor: Chris Kennedy) \\
-\oldstylenums{2017} & Instructor, Introduction to Syntax \\
-\oldstylenums{2016} & TA, Introduction to Semantics and Pragmatics (Instructor: Itamar Francez) \\
-\oldstylenums{2016} & TA, Introduction to Linguistics (Instructor: Katie Franich) \\
-\oldstylenums{2015} & TA, Introduction to Semantics (2017 LSA Summer Institute; Instructor: Chris Kennedy) \\
-\oldstylenums{2014} & TA, Introduction to Linguistics (Instructor: Karlos Arregi) \\
-\oldstylenums{2018} (summer) & Research assistant, University of Chicago, Department of Linguistics (PI: Chris Kennedy) \\
-\oldstylenums{2010--2012} & Lab manager, University of Chicago Language Processing Lab (PI: Ming Xiang) and University of Chicago Phonology Lab (PI: Alan Yu)
-\end{tabular}
+   \begin{tabular}{@{}b{0.2\textwidth}@{}p{0.8\textwidth}}
+   \oldstylenums{2019} & Instructor, Introduction to Linguistics \\
+   \oldstylenums{2019} & Instructor, Introduction to Semantics and Pragmatics \\
+   \oldstylenums{2018} & TA, Elementary Logic (Instructor: Malte Willer)
+   \end{tabular}
+   \begin{tabular}{@{}b{0.2\textwidth}@{}p{0.8\textwidth}}
+   \oldstylenums{2018} & TA, Cognition (Instructors: Chris Kennedy and Jason Bridges) \\
+   \oldstylenums{2017} & TA, Elementary Logic (Instructor: Thomas Pashby) \\
+   \oldstylenums{2017} & TA, Code Making, Code Breaking (Instructor: Chris Kennedy) \\
+   \oldstylenums{2017} & Instructor, Introduction to Syntax \\
+   \oldstylenums{2016} & TA, Introduction to Semantics and Pragmatics (Instructor: Itamar Francez) \\
+   \oldstylenums{2016} & TA, Introduction to Linguistics (Instructor: Katie Franich) \\
+   \oldstylenums{2015} & TA, Introduction to Semantics (2017 LSA Summer Institute; Instructor: Chris Kennedy) \\
+   \oldstylenums{2014} & TA, Introduction to Linguistics (Instructor: Karlos Arregi) \\
+   \oldstylenums{2018} (summer) & Research assistant, University of Chicago, Department of Linguistics (PI: Chris Kennedy) \\
+   \oldstylenums{2010--2012} & Lab manager, University of Chicago Language Processing Lab (PI: Ming Xiang) and University of Chicago Phonology Lab (PI: Alan Yu)
+   \end{tabular}
    #+end_export
 
 * Service
   #+begin_export latex
-\begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
-\oldstylenums{2023} & Reviewer, Glossa Psycholinguistics \\
-\oldstylenums{2023} & Reviewer, Natural Language Semantics \\
-\oldstylenums{2023} & Reviewer, Journal of Logic, Language and Information \\
-\oldstylenums{2022} & Reviewer, EACL 2023 \\
-\oldstylenums{2022} & Reviewer, Synthese \\
-\oldstylenums{2022} & Reviewer, (Dis)embodiment Workshop 2022 (held at the University of Gothenburg) \\
-\oldstylenums{2022} & Reviewer, Journal of Semantics \\
-\oldstylenums{2022} & Reviewer, Linguistics and Philosophy \\
-\oldstylenums{2021} & Reviewer, Journal of Logic, Language and Information \\
-\oldstylenums{2019} & Reviewer, 55th Annual Meeting of the Chicago Linguistic Society \\
-\oldstylenums{2018} & Reviewer, 54th Annual Meeting of the Chicago Linguistic Society \\
-\oldstylenums{2017} & Reviewer, 53nd Annual Meeting of the Chicago Linguistic Society \\
-\oldstylenums{2016} & Reviewer, 52nd Annual Meeting of the Chicago Linguistic Society \\
-\oldstylenums{2015} & Reviewer, 51st Annual Meeting of the Chicago Linguistic Society \\
-\oldstylenums{2014} & Conference organizer and reviewer, 50th Annual Meeting of the Chicago Linguistic Society \\
-\oldstylenums{2013} & Reviewer, 49th Annual Meeting of the Chicago Linguistic Society \\
-\end{tabular}
+  \begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
+  \oldstylenums{2024} & Reviewer, Glossa Psycholinguistics \\
+  \oldstylenums{2024} & Reviewer, Journal of Logic, Language and Information \\
+  \oldstylenums{2024} & Reviewer, Journal of Semantics \\
+  \oldstylenums{2023} & Reviewer, Glossa Psycholinguistics \\
+  \oldstylenums{2023} & Reviewer, Natural Language Semantics \\
+  \oldstylenums{2023} & Reviewer, Journal of Logic, Language and Information \\
+  \oldstylenums{2022} & Reviewer, EACL 2023 \\
+  \oldstylenums{2022} & Reviewer, Synthese \\
+  \oldstylenums{2022} & Reviewer, (Dis)embodiment Workshop 2022 (held at the University of Gothenburg) \\
+  \oldstylenums{2022} & Reviewer, Journal of Semantics \\
+  \oldstylenums{2022} & Reviewer, Linguistics and Philosophy \\
+  \oldstylenums{2021} & Reviewer, Journal of Logic, Language and Information \\
+  \oldstylenums{2019} & Reviewer, 55th Annual Meeting of the Chicago Linguistic Society \\
+  \oldstylenums{2018} & Reviewer, 54th Annual Meeting of the Chicago Linguistic Society \\
+  \oldstylenums{2017} & Reviewer, 53nd Annual Meeting of the Chicago Linguistic Society \\
+  \oldstylenums{2016} & Reviewer, 52nd Annual Meeting of the Chicago Linguistic Society \\
+  \oldstylenums{2015} & Reviewer, 51st Annual Meeting of the Chicago Linguistic Society \\
+  \oldstylenums{2014} & Conference organizer and reviewer, 50th Annual Meeting of the Chicago Linguistic Society \\
+  \oldstylenums{2013} & Reviewer, 49th Annual Meeting of the Chicago Linguistic Society \\
+  \end{tabular}
   #+end_export
 
 * Additional skills
   #+begin_export latex
-\begin{tabular}{@{}b{0.4\textwidth}@{}p{0.6\textwidth}}
-Natural languages & English (native), Spanish (advanced), German (intermediate) \\
-Programming languages & Haskell, Coq, Ocaml, Nix, Java, R, Python \\
-Markup languages and software & \LaTeX, Emacs, E-Prime, HTML, Praat \\
-Tools & Linux (Arch and NixOS) and Unix, Amazon Mechanical Turk
-\end{tabular}
+  \begin{tabular}{@{}b{0.4\textwidth}@{}p{0.6\textwidth}}
+  Natural languages & English (native), Spanish (advanced), German (intermediate) \\
+  Programming languages & Haskell, Coq, Ocaml, Nix, Java, R, Stan, Python \\
+  Markup languages and software & \LaTeX, Emacs, E-Prime, HTML, Praat \\
+  Tools & Linux (Arch and NixOS) and Unix, Amazon Mechanical Turk
+  \end{tabular}
   #+end_export
