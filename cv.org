@@ -50,7 +50,7 @@
 ** Published papers
    #+begin_export latex
    \begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
-   \oldstylenums{2024} & \textbf{Julian Grove} \& Aaron Steven White. Modeling the prompt in inference judgment tasks. To appear in the proceedings of the third meeting of Experiments in Linguistics Meaning (ELM 3). Available on \href{https://ling.auf.net/lingbuzz/008196}{LingBuzz}. \\
+   \oldstylenums{2025} & \textbf{Julian Grove} \& Aaron Steven White. Modeling the prompt in inference judgment tasks. In the proceedings of the third meeting of Experiments in Linguistics Meaning (ELM 3). \textsc{doi}: \href{https://doi.org/10.3765/elm.3.5857}{10.3765/elm.3.5857}. \\
    \oldstylenums{2023} & \textbf{Julian Grove} \& Jean-Philippe Bernardy. Probabilistic compositional semantic, purely. \textit{New Frontiers in Artificial Intelligence}. \textit{JSAI-isAI 2021}. \textsc{doi}:\href{http://doi.org/10.1007/978-3-031-36190-6_17}{10.1007/978-3-031-36190-6\_17}. \\
    \oldstylenums{2023} & \textbf{Julian Grove} \& Jean-Philippe Bernardy. Algebraic effects for extensible dynamic semantics. In \textit{Journal of Logic, Language and Information}. 32:219--245. \textsc{doi}:\href{http://doi.org/10.1007/s10849-022-09378-7}{10.1007/s10849-022-09378-7}. \\
    \oldstylenums{2022} & \textbf{Julian Grove}. An alternative semantics for presupposition. Proceedings of the Amsterdam Colloquium 2022. Available on \href{https://ling.auf.net/lingbuzz/006976}{LingBuzz}. \\
@@ -74,6 +74,7 @@
 ** Papers in progress
    #+begin_export latex
    \begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
+   In progress & \textbf{Julian Grove} \& Aaron Steven White. Probabilistic dynamic semantics. Available on \href{https://ling.auf.net/lingbuzz/008478}{LingBuzz}. \\
    Submitted & \textbf{Julian Grove} \& Aaron Steven White. Factivity, presupposition projection, and the role of discrete knowledge in gradient inference judgments. Available on \href{https://ling.auf.net/lingbuzz/007450}{LingBuzz}. \\
    Submitted & Jean-Philippe Bernardy, \textbf{Julian Grove}, and Chris Howes. The informative speech act.
    \end{tabular}
@@ -125,6 +126,20 @@
    #+end_export
    
 * Teaching & other work
+** ESSLLI, Ruhr University of Bochum
+   #+begin_export latex
+   \begin{tabular}{@{}b{0.2\textwidth}@{}p{0.8\textwidth}}
+   \oldstylenums{2025} & Instructor (with Aaron Steven White), Probabilistic Dynamic Semantics
+   \end{tabular}
+   #+end_export
+
+** NASSLLI, University of Washington, Seattle
+   #+begin_export latex
+   \begin{tabular}{@{}b{0.2\textwidth}@{}p{0.8\textwidth}}
+   \oldstylenums{2025} & Instructor (with Aaron Steven White), Probabilistic Dynamic Semantics
+   \end{tabular}
+   #+end_export
+   
 ** The University of Rochester
    #+begin_export latex
    \begin{tabular}{@{}b{0.2\textwidth}@{}p{0.8\textwidth}}
@@ -163,6 +178,12 @@
 * Service
   #+begin_export latex
   \begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
+  \oldstylenums{2025} & Reviewer, PEER 2025 Workshop \\
+  \oldstylenums{2025} & Reviewer, Journal of Memory and Language \\
+  \oldstylenums{2025} & Reviewer, Semantics and Linguistic Theory 35 \\
+  \oldstylenums{2025} & Reviewer, Penn Linguistics Conference 49 \\
+  \oldstylenums{2024} & Reviewer, Journal of Memory and Language \\
+  \oldstylenums{2024} & Reviewer, Semantics and Linguistic Theory 34 \\
   \oldstylenums{2024} & Reviewer, Glossa Psycholinguistics \\
   \oldstylenums{2024} & Reviewer, Journal of Logic, Language and Information \\
   \oldstylenums{2024} & Reviewer, Journal of Semantics \\
@@ -181,6 +202,8 @@
   \oldstylenums{2016} & Reviewer, 52nd Annual Meeting of the Chicago Linguistic Society \\
   \oldstylenums{2015} & Reviewer, 51st Annual Meeting of the Chicago Linguistic Society \\
   \oldstylenums{2014} & Conference organizer and reviewer, 50th Annual Meeting of the Chicago Linguistic Society \\
+  \end{tabular}
+  \begin{tabular}{@{}b{0.12\textwidth}@{}p{0.88\textwidth}}
   \oldstylenums{2013} & Reviewer, 49th Annual Meeting of the Chicago Linguistic Society \\
   \end{tabular}
   #+end_export
