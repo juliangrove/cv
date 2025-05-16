@@ -1,6 +1,6 @@
-with import (fetchTarball https://github.com/NixOS/nixpkgs/archive/nixos-23.05.tar.gz) { };
+with import (fetchTarball https://github.com/NixOS/nixpkgs/archive/nixos-24.11.tar.gz) { };
 let
-  orgEmacs = emacsWithPackages (with emacsPackagesNg; [ ]);
+  orgEmacs = emacs.pkgs.withPackages (with emacsPackagesNg; [ ]);
   orgEmacsConfig = writeText "default.el" ''
     (add-to-list 'load-path "${emacsPackages.org-ref}")
     (with-eval-after-load 'ox-latex
@@ -20,6 +20,7 @@ let
        \\usepackage{titlesec}					%custom \\section
        \\usepackage{multirow}
        \\usepackage{makecell}
+       % \\usepackage{microtype}
        \\usepackage{array}
        \\usepackage{units}
        \\usepackage{float}
@@ -27,14 +28,17 @@ let
        \\usepackage{longtable}
        \\usepackage{dashrule}
        %Setup hyperref package, and colours for links
-       \\usepackage{hyperref}
-       \\definecolor{linkcolour}{rgb}{0,0.2,0.6}
-       \\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour,linkcolor=linkcolour}
+       \\usepackage{xurl}
+       \\renewcommand{\\UrlFont}{\\normalfont}
+       \\usepackage[colorlinks=true,urlcolor={[HTML]{427b58}},citecolor={[HTML]{427b58}},linkcolor={[HTML]{427b58}},bookmarks,bookmarksopen,bookmarksdepth=2]{hyperref}
+       %%\\usepackage{hyperref}
+       %%\\definecolor{linkcolour}{rgb}{0,0.2,0.6}
+       %%\\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour,linkcolor=linkcolour}
 
 
        %CV Sections inspired by:
        %http://stefano.italians.nl/archives/26
-       \\titleformat{\\section}{\\Large\\scshape\\raggedright\\sffamily}{}{0em}{}[\\titlerule]
+       \\titleformat{\\section}{\\large\\scshape\\raggedright\\sffamily}{}{0em}{}[\\titlerule]
        \\titlespacing{\\section}{0pt}{3pt}{3pt}
        %\\titlespacing{\\section}{0pt}{2pt}{2pt}
        \\titleformat{\\subsection}{\\bfseries\\raggedright\\sffamily}{}{0em}{}[]
@@ -52,23 +56,27 @@ let
        \\textblockorigin{2mm}{0.65\\paperheight}
        \\setlength{\\parindent}{0pt}
 
-
-
        %FONTS
        \\defaultfontfeatures{Mapping=tex-text}
+       % \\DisableLigatures{encoding = *, family = * }
        % \\setmainfont[SmallCapsFont = Fontin SmallCaps]{Fontin}
        %%% modified for Karol Kozioł for ShareLaTeX use
-       \\setmainfont[
-       BoldFont = Cochineal-Bold.otf,
-       ItalicFont = Cochineal-Italic.otf
-       ]
-       {Cochineal-Roman.otf}
-       \\setsansfont[
+       %\\setmainfont[
+       %BoldFont = Cochineal-Bold.otf,
+       %ItalicFont = Cochineal-Italic.otf
+       %]
+       %{Cochineal-Roman.otf}
+       %\\setsansfont[
        %SmallCapsFont = LinBiolinum_aS.ttf,
-       BoldFont = LinBiolinum_RB.otf,
-       ]
-       {LinBiolinum_R.otf}
+       %BoldFont = LinBiolinum_RB.otf,
+       %]
+       %{LinBiolinum_R.otf}
        %%%
+       \\setmainfont{Libertinus Serif}
+       \\setsansfont{Libertinus Sans}
+       \\setmonofont{Libertinus Mono}
+       \\usepackage[math-style=ISO]{unicode-math}
+       \\setmathfont{Libertinus Math}
 
        \\usepackage{fancyhdr}
        \\pagestyle{fancy}
@@ -117,6 +125,9 @@ stdenv.mkDerivation {
   # eval $(egrep ^export ${ghc} /bin/ghc)
   buildInputs = [
     orgEmacs
+    fontconfig
+    glibcLocales
+    libertinus
     (texlive.combine {
       inherit (texlive)
         adjustbox
@@ -127,8 +138,10 @@ stdenv.mkDerivation {
         inconsolata
         lastpage
         libertine
+        libertinus
         makecell
         mathtools
+        microtype
         multirow
         newtx
         newunicodechar
@@ -143,6 +156,7 @@ stdenv.mkDerivation {
         titlesec
         ulem
         upquote
+        xurl
         ;
       libertineotf.pkgs = [ (pkgs.callPackage libertineotfPkg { }) ];
     })
